@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @agnishwar29
+- 👀 I’m interested in AI/Machine Learning/Web Development/ Python
+- 🌱 I’m currently learning AI/Machine Learning
